@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quest_jar</output-path>
+    <root id="archive" name="Quest.jar">
+      <element id="module-output" name="Quest" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/menu.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.12.10/mongo-java-driver-3.12.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

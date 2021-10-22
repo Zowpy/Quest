@@ -1,0 +1,6 @@
+name: Quest
+version: '1.0-SNAPSHOT'
+main: me.zowpy.quest.QuestPlugin
+authors: [ Zowpy ]
+commands:
+  quests:

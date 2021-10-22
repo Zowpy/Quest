@@ -1,0 +1,10 @@
+quests:
+  walk:
+    type: RUN
+    amount: 100
+    reward: "give <player> diamond 64"
+  miner:
+    type: BREAK
+    amount: 15
+    block: STONE
+    reward: "give <player> diamond 64"

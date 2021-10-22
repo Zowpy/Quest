@@ -1,0 +1,6 @@
+name: Quest
+version: '${project.version}'
+main: me.zowpy.quest.QuestPlugin
+authors: [ Zowpy ]
+commands:
+  quests:
