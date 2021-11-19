@@ -1,3 +1,3 @@
 # Quest
  
-Simple quest plugin, I made this for my DevRoom trial plugin.
+Simple quest plugin, I made this for the DevRoom trial plugin.
